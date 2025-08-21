@@ -1,2 +1,6 @@
-# Ignore large dataset file
-/data/raw/creditcard.csv
+data/raw/
+data/processed/
+results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
